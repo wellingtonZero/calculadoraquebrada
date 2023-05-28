@@ -1,8 +1,8 @@
 import 'package:audioplayers/audioplayers.dart';
-import 'package:calcanimada/operacaoMul/carrosel_mul.dart';
-import 'package:calcanimada/operacaoMul/mul_dificil.dart';
-import 'package:calcanimada/operacaoMul/mul_facil.dart';
-import 'package:calcanimada/operacaoMul/mul_normal.dart';
+import 'package:calculadoraquebrada/operacaoMul/carrosel_mul.dart';
+import 'package:calculadoraquebrada/operacaoMul/mul_dificil.dart';
+import 'package:calculadoraquebrada/operacaoMul/mul_facil.dart';
+import 'package:calculadoraquebrada/operacaoMul/mul_normal.dart';
 import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
 

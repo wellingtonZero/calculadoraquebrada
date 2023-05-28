@@ -1,8 +1,8 @@
 
 import 'package:audioplayers/audioplayers.dart';
-import 'package:calcanimada/menuNivel/nivel_mul.dart';
-import 'package:calcanimada/menuNivel/nivel_sub.dart';
-import 'package:calcanimada/menuNivel/nivel_mais.dart';
+import 'package:calculadoraquebrada/menuNivel/nivel_mul.dart';
+import 'package:calculadoraquebrada/menuNivel/nivel_sub.dart';
+import 'package:calculadoraquebrada/menuNivel/nivel_mais.dart';
 import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
 

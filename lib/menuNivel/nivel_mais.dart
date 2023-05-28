@@ -1,8 +1,8 @@
 import 'package:audioplayers/audioplayers.dart';
-import 'package:calcanimada/operacaoSom/carrosel_soma.dart';
-import 'package:calcanimada/operacaoSom/soma_dificil.dart';
-import 'package:calcanimada/operacaoSom/soma_facil.dart';
-import 'package:calcanimada/operacaoSom/soma_normal.dart';
+import 'package:calculadoraquebrada/operacaoSom/carrosel_soma.dart';
+import 'package:calculadoraquebrada/operacaoSom/soma_dificil.dart';
+import 'package:calculadoraquebrada/operacaoSom/soma_facil.dart';
+import 'package:calculadoraquebrada/operacaoSom/soma_normal.dart';
 import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
 
